@@ -1,0 +1,26 @@
+High wave alert api: https://sarat.incois.gov.in/incoismobileappdata/rest/incois/hwassalatestdata
+
+json
+significant wave height: https://samudra.incois.gov.in/incoismobileappdata/rest/incois/getdata?resolution=0.25&forecastdate=20240829&filename=2024-08-30_06-00-00_swh.json
+swell height: https://samudra.incois.gov.in/incoismobileappdata/rest/incois/getdata?resolution=0.25&forecastdate=20240829&filename=2024-08-30_06-00-00_swell.json
+
+// gif
+https://incois.gov.in/OSF_FILES/forecast/coastal/tamilnadu/swh/02-09-2024--0530.gif
+
+// alert
+https://incois.gov.in/WEBSITE_FILES/OSF_FILES/forecast/Bulletins/Alert_Message.js
+
+// district polygon
+https://samudra.incois.gov.in/incoismobileappdata/rest/incois/districtpolygons
+
+// hwa(high wave alert) and ssa(swell surge alert) latest data
+https://samudra.incois.gov.in/incoismobileappdata/rest/incois/hwassalatestdata
+
+// water current latest data
+https://samudra.incois.gov.in/incoismobileappdata/rest/incois/currentslatestdata
+
+// storm surge
+https://samudra.incois.gov.in/incoismobileappdata/rest/incois/getlateststormsurge
+
+// tsunami 
+https://gemini.incois.gov.in/api/ws/tsunami
